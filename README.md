@@ -5,7 +5,7 @@ Frontend Kiosk Subway
 - Using a Rest API
 - Using a ...
 
-# Steven - Frontend
-# Bram - Frontend
-# Sebastiaan - Backend
-# Maurits - Frontend
+## Steven - Frontend
+## Bram - Frontend
+## Sebastiaan - Backend
+## Maurits - Frontend

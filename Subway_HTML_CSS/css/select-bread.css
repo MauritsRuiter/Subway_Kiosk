@@ -1,0 +1,170 @@
+.kies-uw-type,
+.rotisserie-style-chicken1 {
+  position: absolute;
+  top: 250px;
+  left: 149px;
+  font-weight: 500;
+}
+.kies-uw-type {
+  top: 1141px;
+  left: 257px;
+}
+.select-bread-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 433px;
+  height: 167px;
+}
+.subway-2016-logosvg-icon5,
+.x360-icon2 {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  width: 333px;
+  height: 67px;
+  object-fit: cover;
+}
+.x360-icon2 {
+  top: 530px;
+  width: 980px;
+  height: 551px;
+  opacity: 0.6;
+}
+.kip-op-zn {
+  margin: 0;
+}
+.kip-op-zn-container {
+  position: absolute;
+  top: 385px;
+  left: 250px;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+  text-align: center;
+}
+.bruin-brood {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-weight: 500;
+}
+.bruin-brood-wrapper {
+  left: 0;
+}
+.bruin-brood-wrapper,
+.italian-herbs-cheese-wrapper,
+.sesam-wrapper {
+  position: absolute;
+  top: 24px;
+  width: 297px;
+  height: 209px;
+  background-image: url(../public/group-7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.italian-herbs-cheese-wrapper {
+  left: calc(50% - 148px);
+}
+.sesam-wrapper {
+  right: -1px;
+}
+.wit-wrapper {
+  left: 0;
+}
+.glutenvrij-wrapper,
+.meerzaden-wrapper,
+.wit-wrapper {
+  position: absolute;
+  bottom: 1px;
+  width: 297px;
+  height: 209px;
+  background-image: url(../public/group-7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.meerzaden-wrapper {
+  left: calc(50% - 148px);
+}
+.glutenvrij-wrapper {
+  right: -1px;
+}
+.repeat-grid-4 {
+  position: absolute;
+  bottom: 72px;
+  left: 50px;
+  width: 980px;
+  height: 511px;
+  font-size: var(--font-size-6xl);
+}
+.ad-van-misschien,
+.ad-van-misschien1,
+.deal-sub {
+  position: absolute;
+  top: 628px;
+  left: 101px;
+  font-weight: 500;
+}
+.ad-van-misschien1,
+.deal-sub {
+  top: 863px;
+}
+.deal-sub {
+  top: 738px;
+  left: 80px;
+}
+.group-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-inner,
+.group-item {
+  position: absolute;
+  height: calc(100% - 69px);
+  width: calc(100% - 22px);
+  top: 34.5px;
+  right: 11px;
+  bottom: 34.5px;
+  left: 11px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-black);
+  transform: rotate(45deg);
+}
+.group-inner {
+  transform: rotate(315deg);
+}
+.ellipse-parent,
+.select-bread-item {
+  position: absolute;
+  top: 551px;
+  right: 70px;
+  width: 78px;
+  height: 78px;
+}
+.select-bread-item {
+  top: 50px;
+  right: 50px;
+  width: 67px;
+  height: 67px;
+}
+.select-bread {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1920px;
+  text-align: left;
+  font-size: var(--font-size-61xl);
+  color: var(--color-gray);
+  font-family: var(--font-dubai);
+}

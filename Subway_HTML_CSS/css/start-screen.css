@@ -1,0 +1,126 @@
+.subway-choicemark-icon1 {
+  position: absolute;
+  top: -133.66px;
+  left: -369.63px;
+  width: 1851.3px;
+  height: 2130.3px;
+  object-fit: cover;
+  opacity: 0.75;
+}
+.subway-2016-logosvg-icon2 {
+  position: absolute;
+  top: 20px;
+  left: 188px;
+  width: 705px;
+  height: 141px;
+  object-fit: cover;
+}
+.start-screen-child {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 1080px;
+  height: 320px;
+}
+.order1 {
+  top: 202px;
+  left: 102px;
+  display: inline-block;
+  width: 878px;
+  height: 454px;
+}
+.cover1,
+.here1,
+.order1 {
+  position: absolute;
+}
+.here1 {
+  bottom: 269px;
+  left: 118px;
+  display: inline-block;
+  width: 878px;
+  height: 409px;
+}
+.cover1 {
+  right: 10px;
+  bottom: 20px;
+  background-color: var(--color-darkslategray);
+  width: 12px;
+  height: 12px;
+}
+.cover-container {
+  position: absolute;
+  bottom: 50px;
+  left: 49px;
+  width: 170px;
+  height: 219px;
+  background-image: url(../public/group-11@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.dine-in1 {
+  position: absolute;
+  bottom: 10px;
+  left: calc(50% - 58.5px);
+  font-weight: 500;
+}
+.dining-room-cutlery-set-of-thr-icon1 {
+  position: absolute;
+  top: calc(50% - 62.5px);
+  left: calc(50% - 31.5px);
+  width: 63px;
+  height: 63px;
+  object-fit: cover;
+}
+.dine-in-group {
+  position: absolute;
+  bottom: 68px;
+  left: 314px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 303px;
+  height: 183px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray);
+}
+.take-away1 {
+  position: absolute;
+  bottom: 10px;
+  left: calc(50% - 90.5px);
+  font-weight: 500;
+}
+.paper-bag-icon1 {
+  position: absolute;
+  top: calc(50% - 62.5px);
+  left: calc(50% - 35.5px);
+  width: 64px;
+  height: 63px;
+  object-fit: cover;
+}
+.take-away-group,
+.start-screen {
+  background-color: var(--color-white);
+}
+.take-away-group {
+  position: absolute;
+  right: 80px;
+  bottom: 68px;
+  border-radius: var(--br-11xl);
+  width: 303px;
+  height: 183px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray);
+}
+.start-screen {
+  position: relative;
+  width: 100%;
+  height: 1920px;
+  text-align: center;
+  font-size: var(--font-size-231xl);
+  color: var(--color-white);
+  font-family: var(--font-dubai);
+}

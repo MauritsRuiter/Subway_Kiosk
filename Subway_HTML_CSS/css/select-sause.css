@@ -1,0 +1,127 @@
+.kies-uw-favoriete {
+  position: absolute;
+  top: 553px;
+  left: 173px;
+  font-size: var(--font-size-61xl);
+  font-weight: 500;
+}
+.kip-op-zn2 {
+  margin: 0;
+}
+.kip-op-zn-container2 {
+  position: absolute;
+  top: 385px;
+  left: 250px;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+  text-align: center;
+}
+.rotisserie-style-chicken3 {
+  position: absolute;
+  top: 250px;
+  left: 149px;
+  font-size: var(--font-size-61xl);
+  font-weight: 500;
+}
+.select-sause-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 433px;
+  height: 167px;
+}
+.subway-2016-logosvg-icon7 {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  width: 333px;
+  height: 67px;
+  object-fit: cover;
+}
+.light-mayo {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-weight: 500;
+}
+.light-mayo-wrapper {
+  left: 50px;
+}
+.light-mayo-wrapper,
+.mosterd-wrapper,
+.southwest-chipotle-wrapper {
+  position: absolute;
+  top: 773px;
+  width: 297px;
+  height: 209px;
+  background-image: url(../public/group-7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.mosterd-wrapper {
+  left: 392px;
+}
+.southwest-chipotle-wrapper {
+  right: 49px;
+}
+.pesto-wrapper {
+  left: 50px;
+}
+.honing-mosterd-wrapper,
+.pesto-wrapper,
+.truffelsaus-wrapper {
+  position: absolute;
+  top: 1050px;
+  width: 297px;
+  height: 209px;
+  background-image: url(../public/group-7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.truffelsaus-wrapper {
+  left: 392px;
+}
+.honing-mosterd-wrapper {
+  right: 49px;
+}
+.bbq-saus-wrapper {
+  left: 50px;
+}
+.bbq-saus-wrapper,
+.hot-sause-wrapper,
+.sweet-onion-wrapper {
+  position: absolute;
+  top: 1327px;
+  width: 297px;
+  height: 209px;
+  background-image: url(../public/group-7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.hot-sause-wrapper {
+  left: 392px;
+}
+.sweet-onion-wrapper {
+  right: 50px;
+}
+.select-sause-item {
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  width: 67px;
+  height: 67px;
+}
+.select-sause {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1920px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray);
+  font-family: var(--font-dubai);
+}

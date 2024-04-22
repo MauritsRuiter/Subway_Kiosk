@@ -1,0 +1,271 @@
+.bestelling-overzicht {
+  position: absolute;
+  top: 250px;
+  left: 209px;
+  font-size: var(--font-size-61xl);
+  font-weight: 500;
+}
+.order-overview-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 433px;
+  height: 167px;
+}
+.subway-2016-logosvg-icon9 {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  width: 333px;
+  height: 67px;
+  object-fit: cover;
+}
+.order-overview-item {
+  position: absolute;
+  top: 450px;
+  left: 189px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.16) inset;
+  border-radius: var(--br-9xl);
+  background-color: var(--color-white);
+  width: 700px;
+  height: 936px;
+}
+.sides,
+.subs2 {
+  position: absolute;
+  top: 897px;
+  left: 247px;
+  font-size: var(--font-size-41xl);
+  font-weight: 500;
+}
+.subs2 {
+  top: 505px;
+}
+.appelsap,
+.cookies-3-van {
+  position: absolute;
+  top: 1049px;
+  left: 289px;
+}
+.cookies-3-van {
+  top: 1116px;
+}
+.cola-2,
+.div10,
+.lipton-green {
+  position: absolute;
+  top: 1183px;
+  left: 289px;
+}
+.cola-2,
+.div10 {
+  top: 982px;
+}
+.div10 {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-black);
+  height: 3px;
+}
+.div11 {
+  top: calc(50% - 37px);
+}
+.div11,
+.div12,
+.div13 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-black);
+  height: 3px;
+}
+.div12 {
+  top: calc(50% + 31px);
+}
+.div13 {
+  bottom: 3px;
+}
+.repeat-grid-61,
+.repeat-grid-8 {
+  position: absolute;
+  top: 1014px;
+  left: 247px;
+  width: 17px;
+  height: 210px;
+}
+.repeat-grid-8 {
+  top: 1005px;
+  left: 828px;
+  width: 5px;
+  height: 228px;
+}
+.chicken-teriyaki1,
+.italian-bmt1 {
+  position: absolute;
+  top: 657px;
+  left: 289px;
+}
+.chicken-teriyaki1 {
+  top: 724px;
+}
+.rotisserie-style-chicken5,
+.spicy-italian1 {
+  position: absolute;
+  top: 791px;
+  left: 289px;
+}
+.rotisserie-style-chicken5 {
+  top: 590px;
+}
+.div15 {
+  top: calc(50% - 35.5px);
+}
+.div15,
+.div16,
+.div17 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-black);
+  height: 3px;
+}
+.div16 {
+  top: calc(50% + 32.5px);
+}
+.div17 {
+  bottom: 0;
+}
+.repeat-grid-10,
+.repeat-grid-111 {
+  position: absolute;
+  top: 621px;
+  left: 247px;
+  width: 17px;
+  height: 207px;
+}
+.repeat-grid-111 {
+  top: 612px;
+  left: 828px;
+  width: 5px;
+  height: 225px;
+}
+.order-overview-inner {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 1080px;
+  height: 466px;
+}
+.rectangle-div {
+  position: absolute;
+  right: 95px;
+  bottom: 75px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 400px;
+  height: 250px;
+}
+.coupongiftcard {
+  position: absolute;
+  right: 118.5px;
+  bottom: 83px;
+  font-size: var(--font-size-31xl);
+  font-weight: 500;
+}
+.cover2 {
+  position: absolute;
+  right: 5px;
+  bottom: 8px;
+  background-color: var(--color-darkslategray);
+  width: 6px;
+  height: 6px;
+}
+.cover-frame {
+  position: absolute;
+  right: 20px;
+  bottom: 15px;
+  width: 75px;
+  height: 97px;
+  background-image: url(../public/group-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.order-overview-child1 {
+  position: absolute;
+  bottom: 75px;
+  left: 95px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 400px;
+  height: 250px;
+}
+.card,
+.your-number-will {
+  position: absolute;
+  font-weight: 500;
+}
+.card {
+  bottom: 86px;
+  left: 246.5px;
+  font-size: var(--font-size-31xl);
+}
+.your-number-will {
+  top: 1478px;
+  left: 76px;
+  font-size: 45px;
+  line-height: 50px;
+  color: var(--color-white);
+  text-align: center;
+}
+.bx-credit-card-front-icon,
+.bxs-coupon-icon {
+  position: absolute;
+  bottom: 187.45px;
+  left: 235.47px;
+  width: 119.1px;
+  height: 89.8px;
+}
+.bxs-coupon-icon {
+  bottom: 187.2px;
+  left: 724.82px;
+  width: 120.4px;
+  height: 84.3px;
+}
+.order-overview-child2 {
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  width: 67px;
+  height: 67px;
+}
+.div18,
+.subtotal {
+  position: absolute;
+  top: 1269px;
+  left: 622px;
+  font-size: var(--font-size-41xl);
+  font-weight: 500;
+}
+.subtotal {
+  left: 247px;
+}
+.order-overview {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1920px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray);
+  font-family: var(--font-dubai);
+}

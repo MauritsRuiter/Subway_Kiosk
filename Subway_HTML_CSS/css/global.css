@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+.customize,
+.interstitial,
+.main-screen,
+.order-overview,
+.order,
+.overview,
+.select-bread,
+.select-sause,
+.select-toppings,
+.thanks {
+    overflow-y: hidden;
+}
+
+p, h1, h2, h3, h4, h5, h6, span, b, div {
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-dubai: Dubai;
+
+  /* font sizes */
+  --font-size-31xl: 50px;
+  --font-size-23xl: 42px;
+  --font-size-6xl: 25px;
+  --font-size-21xl: 40px;
+  --font-size-231xl: 250px;
+  --font-size-xl: 20px;
+  --font-size-61xl: 80px;
+  --font-size-41xl: 60px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslategray: #085b49;
+  --color-gray: #2b2b2b;
+  --color-darkgray: #a5a5a5;
+  --color-whitesmoke: #efefef;
+  --color-dimgray: #656565;
+  --color-black: #000;
+
+  /* Border radiuses */
+  --br-11xl: 30px;
+  --br-8xs: 5px;
+  --br-10xs: 3px;
+  --br-9xl: 28px;
+}
+

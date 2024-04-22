@@ -1,0 +1,210 @@
+.sla,
+.sla-wrapper {
+  position: absolute;
+  left: 0;
+}
+.sla {
+  bottom: 0;
+  font-weight: 500;
+}
+.sla-wrapper {
+  top: 0;
+  width: 297px;
+  height: 209px;
+  background-image: url(../public/group-7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.tomaat-wrapper {
+  top: 0;
+  left: calc(50% - 148px);
+}
+.augurken-wrapper,
+.komkommer-wrapper,
+.rode-ui-wrapper,
+.tomaat-wrapper {
+  position: absolute;
+  width: 297px;
+  height: 209px;
+  background-image: url(../public/group-7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.komkommer-wrapper {
+  top: 0;
+  right: 0;
+}
+.augurken-wrapper,
+.rode-ui-wrapper {
+  top: calc(50% - 381.5px);
+}
+.augurken-wrapper {
+  left: 0;
+}
+.rode-ui-wrapper {
+  left: calc(50% - 148px);
+}
+.paprika {
+  position: absolute;
+  bottom: 0;
+  left: 1px;
+  font-weight: 500;
+}
+.paprika-wrapper {
+  position: absolute;
+  top: calc(50% - 381.5px);
+  right: 0;
+  width: 297px;
+  height: 209px;
+  background-image: url(../public/group-7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.olijfen-wrapper {
+  left: 0;
+}
+.banana-peper-wrapper,
+.groene-peper-wrapper,
+.olijfen-wrapper {
+  position: absolute;
+  top: calc(50% - 104.5px);
+  width: 297px;
+  height: 209px;
+  background-image: url(../public/group-7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.groene-peper-wrapper {
+  left: calc(50% - 148px);
+}
+.banana-peper-wrapper {
+  right: 0;
+}
+.bacon-wrapper {
+  left: 0;
+}
+.bacon-wrapper,
+.jalapeno-peper-wrapper,
+.spinazie-wrapper {
+  position: absolute;
+  top: calc(50% + 172.5px);
+  width: 297px;
+  height: 209px;
+  background-image: url(../public/group-7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.jalapeno-peper-wrapper {
+  left: calc(50% - 148px);
+}
+.spinazie-wrapper {
+  right: 0;
+}
+.avocado-wrapper,
+.div {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.avocado-wrapper {
+  width: 297px;
+  height: 209px;
+  background-image: url(../public/group-7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.div {
+  height: 100%;
+  width: calc(100% - 1px);
+  top: 0;
+  right: 1px;
+}
+.peper-zout-wrapper,
+.repeat-grid-5 {
+  position: absolute;
+  bottom: 44px;
+  left: 50px;
+  width: 981px;
+  height: 1317px;
+}
+.peper-zout-wrapper {
+  left: 392px;
+  width: 297px;
+  height: 209px;
+  background-image: url(../public/group-7@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.select-toppings-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1080px;
+  height: 773px;
+}
+.kies-uw-toppings {
+  position: absolute;
+  top: 553px;
+  left: 257px;
+  font-size: var(--font-size-61xl);
+  font-weight: 500;
+}
+.kip-op-zn1 {
+  margin: 0;
+}
+.kip-op-zn-container1 {
+  position: absolute;
+  top: 385px;
+  left: 250px;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+  text-align: center;
+}
+.rotisserie-style-chicken2 {
+  position: absolute;
+  top: 250px;
+  left: 149px;
+  font-size: var(--font-size-61xl);
+  font-weight: 500;
+}
+.select-toppings-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 433px;
+  height: 167px;
+}
+.subway-2016-logosvg-icon6 {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  width: 333px;
+  height: 67px;
+  object-fit: cover;
+}
+.select-toppings-inner {
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  width: 67px;
+  height: 67px;
+}
+.select-toppings {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2134px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray);
+  font-family: var(--font-dubai);
+}

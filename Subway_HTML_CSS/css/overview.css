@@ -1,0 +1,341 @@
+.sub-overzicht {
+  position: absolute;
+  top: 250px;
+  left: 308px;
+  font-size: var(--font-size-61xl);
+  font-weight: 500;
+}
+.kip-op-zn-container3 {
+  position: absolute;
+  top: 385px;
+  left: 250px;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+  text-align: center;
+}
+.rotisserie-style-chicken4 {
+  position: absolute;
+  top: 553px;
+  left: 144px;
+  font-size: var(--font-size-61xl);
+  font-weight: 500;
+}
+.overview-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 433px;
+  height: 167px;
+}
+.subway-2016-logosvg-icon8 {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  width: 333px;
+  height: 67px;
+  object-fit: cover;
+}
+.overview-item {
+  position: absolute;
+  bottom: 76px;
+  left: 115px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.16) inset;
+  border-radius: var(--br-9xl);
+  background-color: var(--color-white);
+  width: 700px;
+  height: 1110px;
+}
+.sauzen,
+.sub,
+.toppings {
+  position: absolute;
+  top: 965px;
+  left: 177px;
+  font-size: var(--font-size-41xl);
+  font-weight: 500;
+}
+.sauzen,
+.sub {
+  top: 1434px;
+}
+.sub {
+  top: 768px;
+}
+.rode-ui1,
+.sesam1 {
+  position: absolute;
+  top: 869px;
+  left: 219px;
+}
+.rode-ui1 {
+  top: 1134px;
+}
+.southwest-chipotle1 {
+  position: absolute;
+  bottom: 250px;
+  left: 219px;
+}
+.jalapeno-peper1 {
+  position: absolute;
+  top: 1201px;
+  left: 219px;
+}
+.vegan-knoflook-aioli {
+  bottom: 183px;
+}
+.mayo,
+.tomaat1,
+.vegan-knoflook-aioli {
+  position: absolute;
+  left: 219px;
+}
+.mayo {
+  bottom: 116px;
+}
+.tomaat1 {
+  top: 1268px;
+}
+.komkommer1 {
+  top: 1335px;
+}
+.komkommer1,
+.pesto1,
+.sla1 {
+  position: absolute;
+  left: 219px;
+}
+.sla1 {
+  top: 1067px;
+}
+.pesto1 {
+  bottom: 317px;
+}
+.div1,
+.div2,
+.overview-inner {
+  position: absolute;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-black);
+  height: 3px;
+}
+.overview-inner {
+  top: 902px;
+  left: 177px;
+  width: 17px;
+}
+.div1,
+.div2 {
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.div1 {
+  top: 0;
+}
+.div2 {
+  top: calc(50% - 69.5px);
+}
+.div3 {
+  top: calc(50% - 1.5px);
+}
+.div3,
+.div4,
+.div5 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-black);
+  height: 3px;
+}
+.div4 {
+  top: calc(50% + 66.5px);
+}
+.div5 {
+  bottom: 0;
+}
+.repeat-grid-6 {
+  position: absolute;
+  top: 1099px;
+  left: 177px;
+  width: 17px;
+  height: 275px;
+}
+.div7,
+.div8 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 35.5px);
+  right: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-black);
+  height: 3px;
+}
+.div8 {
+  top: calc(50% + 32.5px);
+}
+.repeat-grid-7 {
+  position: absolute;
+  bottom: 146px;
+  left: 177px;
+  width: 17px;
+  height: 207px;
+}
+.ellipse-icon,
+.overview-child1,
+.overview-child2 {
+  position: absolute;
+  top: 893px;
+  left: 758px;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+}
+.overview-child1,
+.overview-child2 {
+  top: 901px;
+}
+.overview-child2 {
+  top: 909px;
+}
+.group-icon,
+.overview-child3,
+.overview-child4 {
+  position: absolute;
+  top: 1090px;
+  left: 758px;
+  width: 5px;
+  height: 21px;
+}
+.overview-child3,
+.overview-child4 {
+  top: 1158px;
+}
+.overview-child4 {
+  top: 1226px;
+}
+.overview-child5 {
+  top: 1294px;
+}
+.overview-child5,
+.overview-child6,
+.overview-child7 {
+  position: absolute;
+  left: 758px;
+  width: 5px;
+  height: 21px;
+}
+.overview-child6 {
+  top: 1362px;
+}
+.overview-child7 {
+  bottom: 341px;
+}
+.overview-child10,
+.overview-child8,
+.overview-child9 {
+  position: absolute;
+  bottom: 273px;
+  left: 758px;
+  width: 5px;
+  height: 21px;
+}
+.overview-child10,
+.overview-child9 {
+  bottom: 205px;
+}
+.overview-child10 {
+  bottom: 137px;
+}
+.group-child1 {
+  position: absolute;
+  width: calc(100% - 20px);
+  top: 0;
+  right: 14px;
+  left: 6px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 160px;
+}
+.toev-aan {
+  margin: 0;
+}
+.toev-aan-winkelwagen {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  line-height: 31px;
+}
+.group-parent {
+  position: absolute;
+  right: 36px;
+  bottom: 60px;
+  width: 180px;
+  height: 246px;
+  text-align: center;
+  font-size: 35px;
+}
+.overview-child11 {
+  position: absolute;
+  top: 50px;
+  right: 50px;
+  width: 67px;
+  height: 67px;
+}
+.group-child2 {
+  position: absolute;
+  width: calc(100% - 1px);
+  top: 0;
+  right: 0;
+  left: 1px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 160px;
+}
+.bestelling-afronden,
+.group-div {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.bestelling-afronden {
+  line-height: 33px;
+}
+.group-div {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+}
+.bx-check-icon {
+  position: absolute;
+  width: calc(100% - 70.5px);
+  top: calc(50% - 81.63px);
+  right: 34.96px;
+  left: 35.54px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 69.8px;
+}
+.group-container {
+  position: absolute;
+  top: 1289px;
+  right: 50px;
+  width: 161px;
+  height: 259px;
+  text-align: center;
+  font-size: 38px;
+}
+.overview {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1920px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gray);
+  font-family: var(--font-dubai);
+}
